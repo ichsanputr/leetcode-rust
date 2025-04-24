@@ -1,0 +1,1 @@
+This repository contains several Rust solutions to problems on LeetCode. All of the code is written by me. I created this repository to document my solutions, improve my problem-solving logic, and learn more about competitive programming.
